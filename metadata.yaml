@@ -1,0 +1,39 @@
+_repo: In-Midsummer-Days-and-Other-Tales_6694
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Schleussner, Ellie
+    gutenberg_agent_id: '7551'
+    url: http://www.gutenberg.org/2009/agents/7551
+creator:
+  author:
+    agent_name: Strindberg, August
+    alias: Strindberg, Johan August
+    birthdate: 1849
+    deathdate: 1912
+    gutenberg_agent_id: '1609'
+    url: http://www.gutenberg.org/2009/agents/1609
+    wikipedia: http://en.wikipedia.org/wiki/August_Strindberg
+description: ''
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6694'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Strindberg, August, 1849-1912 -- Translations into English'
+- !lcc 'PT'
+- !lcsh 'Sweden -- Social life and customs -- Fiction'
+- GITenberg
+tableOfContents: In midsummer days -- The big gravel-sifter -- The sluggard -- The
+  pilot's troubles -- Photographer and philosopher -- Half a sheet of foolscap --
+  Conquering hero and fool -- What the tree-swallow sang in the buckthorn tree --
+  The mystery of the tobacco shed -- The story of the St. Gotthard -- The story of
+  Jubal who had no "I" -- The golden helmets in the Alleberg -- Little Bluewing find
+  the goldpowder.
+title: In Midsummer Days, and Other Tales
+url: http://www.gutenberg.org/ebooks/6694
